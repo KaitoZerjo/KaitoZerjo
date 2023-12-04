@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**KaitoZerjo/KaitoZerjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, Ich bin Kaito 👋
 
-Here are some ideas to get you started:
+20 Jahre alt, und meine Leidenschaft für das Programmieren begann im Alter von 14 Jahren. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Lieblingsprogrammirsprachen: 
+
+- Java
+- HTML, CSS (Auch wenns keine Sind)
+- JavaScript
+- Und PHP gesammelt.
+
+📱 Discord: kaitozerjo
+
+🎨 Portfolio: 
+🐦 Twitter: https://twitter.com/KaitoZerjo
+
