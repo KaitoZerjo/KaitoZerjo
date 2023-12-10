@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hey, Ich bin Kaito 👋<br>20 Jahre alt, und meine Leidenschaft für das Programmieren <br>begann im Alter von 14 Jahren.
+Hey, 
+
+I am Kaito! 👋 <br>20 years old, and my passion for programming <br>started at the age of 14!
+Since then I have been programming in the most diverse programming languages.
 
 
 ## 🌐 Socials:
